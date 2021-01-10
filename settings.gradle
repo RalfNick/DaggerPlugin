@@ -1,0 +1,5 @@
+include ':module-shopping'
+include ':module-user'
+include ':dagger-plugin'
+include ':app'
+rootProject.name = "DaggerPlugin"
